@@ -26,4 +26,4 @@ This project explores a multi-region sales dataset to identify key drivers of pr
 ![Scatter Plot](https://github.com/codenoob5311/Sales-Data-Analysis/blob/main/sales_profit.png)
 
 ### 2. Monthly Profit Trend (2022-2025)
-![Line Plot](رابط_صورة_اللاين_هنا)
+![Line Plot](https://github.com/codenoob5311/Sales-Data-Analysis/blob/main/line_profit.png)
